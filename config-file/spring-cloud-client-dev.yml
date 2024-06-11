@@ -3,7 +3,6 @@ server:
 spring:
   application:
     name: spring-cloud-config-file
-
 test1:
   test2: "This is test1.test2 3000 ok"
 
